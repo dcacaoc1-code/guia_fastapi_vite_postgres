@@ -1,0 +1,1 @@
+# guia_fastapi_vite_postgres
